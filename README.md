@@ -1,3 +1,3 @@
 # Learning-demo
 This one is my landing on github.<br>
-Author - Tusher Chandra<br> Das
+Author - Tusher Chandra Das
